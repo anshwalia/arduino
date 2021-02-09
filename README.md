@@ -4,4 +4,4 @@
 
 ## Modules
 
-<a href="./HC-12" title="Wireless Serial Module"><h3>HC-12</h3></a>
+[HC-12](./HC-12) ``` The HC-12 is a half-duplex wireless serial communication module. ```
